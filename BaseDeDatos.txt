@@ -1,0 +1,165 @@
+codigo
+1
+titulo
+Holidate
+socio
+0
+alquiler
+20
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+2
+titulo
+Los juegos del hambre
+socio
+0
+alquiler
+30
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+3
+titulo
+Las locuras del emperador
+socio
+0
+alquiler
+10
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+4
+titulo
+Las crónicas de la navidad
+socio
+0
+alquiler
+15
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+5
+titulo
+Las brujas
+socio
+0
+alquiler
+10
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+6
+titulo
+Frozen
+socio
+0
+alquiler
+15
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+7
+titulo
+Avengers
+socio
+0
+alquiler
+16
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+8
+titulo
+Piratas del Caribe
+socio
+0
+alquiler
+18
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+9
+titulo
+Crepúsculo
+socio
+0
+alquiler
+40
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+10
+titulo
+Titanic
+socio
+0
+alquiler
+25
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+11
+titulo
+Amigos con beneficios
+socio
+0
+alquiler
+26
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+12
+titulo
+Jumanji
+socio
+0
+alquiler
+14
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+13
+titulo
+Juego de gemelas
+socio
+0
+alquiler
+19
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+14
+titulo
+Capitán América
+socio
+0
+alquiler
+15
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+codigo
+15
+titulo
+Emoji
+socio
+0
+alquiler
+14
+alquilada
+False
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3
